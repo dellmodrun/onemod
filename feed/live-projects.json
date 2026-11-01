@@ -1,5 +1,129 @@
 [
   {
+    "signature": "2EPhFPjamxn1KSet2pyBBjzfy9QDDjQ8h6nCqodZ1HmchWHw3LVq53XNABpa2F7pUwMjhUNZnSiHDZxJKWRzUQtt",
+    "mint": "4qdCyT3FgNcCSyLbLoWfKjTk39HUpopqa1DdYUWJpump",
+    "traderPublicKey": "ALDXCbiyUbNqLhqriXj68ePW3NqMFXJmqbEpQdaSVNAK",
+    "txType": "create",
+    "initialBuy": 7018806.171954,
+    "solAmount": 0.197530863,
+    "bondingCurveKey": "BTGu7d3ghUbiC8wwZMyt7Dzp9q5X5epnr831dLP1SgoQ",
+    "vTokensInBondingCurve": 1065981193.828046,
+    "vSolInBondingCurve": 30.197530862999997,
+    "marketCapSol": 28.32838987952275,
+    "name": "Vibe coin ",
+    "symbol": "VIBE",
+    "uri": "https://ipfs.io/ipfs/bafkreiagnu3yjivbo4kuhtfslla5bpbad2ln4pxobpyqy3qnsfzuqyt7d4",
+    "is_mayhem_mode": true,
+    "pool": "pump",
+    "seenAt": 1793517924865,
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreigmvhkpkexjsbm5vaapfmjnqlwctbnx4gypinjtiavxwe4jfrwnbe",
+    "description": "Vibe and get it gl 70k MC",
+    "twitter": "",
+    "website": "",
+    "platform": "",
+    "metadataLoaded": true,
+    "marketCapUsd": 2711.3220490770086,
+    "marketSource": "curve",
+    "volumeUsd24h": 0,
+    "priceUsd": null,
+    "marketImage": "",
+    "marketUpdatedAt": 1793517952320,
+    "localImage": ""
+  },
+  {
+    "signature": "2BB9pUfABWq9gYjaMDxXfHHeDSMKdgvnecsFNPt2Hdy4xArhUpGLZvvfJgDwgVCAsUedUdsMR3Vj3JJEzVJYT9fp",
+    "mint": "CwAHBKUj9rEdgMMGrciRerz6iY8CbDacEHi98nwdpump",
+    "traderPublicKey": "8fZJQaNPdo6NHo9yXv9bh3ijGhLjquSE6cQxecLtPcdp",
+    "txType": "create",
+    "initialBuy": 706037.126454,
+    "solAmount": 0.019753085,
+    "bondingCurveKey": "CSc6Pun8Hi9VPzxkpYMm4oxbJefsz8trusEByp2hwWNF",
+    "vTokensInBondingCurve": 1072293962.873546,
+    "vSolInBondingCurve": 30.01975308499999,
+    "marketCapSol": 27.99582402250284,
+    "name": "Auto Yield",
+    "symbol": "AYD",
+    "uri": "https://ipfs.io/ipfs/bafkreigemyxbe2n7cbiz5p53htswmxvcwdog4wz6bpqcuwagje5ec6nnr4",
+    "is_mayhem_mode": false,
+    "pool": "pump",
+    "seenAt": 1793517904927,
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeigp4angjl7y7tapgqsjfw4wlr7kd6csjvq3uueg3n67eshmahp2uu",
+    "description": "Next-generation DeFi ecosystem powered by ayd.finance. Featuring modular staking smart contracts, 1-click auto-compounding yields, and a decentralized swap interface natively routed through DEX",
+    "twitter": "https://x.com/AutoYieldFi",
+    "website": "https://www.ayd.finance",
+    "platform": "",
+    "metadataLoaded": true,
+    "marketCapUsd": 2819,
+    "marketSource": "market",
+    "volumeUsd24h": 83.56,
+    "priceUsd": "0.000002819",
+    "marketImage": "",
+    "marketUpdatedAt": 1793517952320,
+    "localImage": ""
+  },
+  {
+    "signature": "7pFkkVn7cjvWn3wLfZWKxhxa1ryU7vQ4YrQ4djQLJmQcTaMiWkPxnziougxxxHvyvXD1emBJ375MrPkKjMQY6gp",
+    "mint": "E5WzATG4jnW3zZ5JzVv2iTZQJzyLq1s4PCdnLBU6pump",
+    "traderPublicKey": "FD79UbiUbDV3EnTE7WCXLttHqqakPZ9kCnnp6MUoL7Wo",
+    "txType": "create",
+    "initialBuy": 353134.727201,
+    "solAmount": 0.009876542,
+    "bondingCurveKey": "3HsaTe1DKzoYvN6VaT2u4LzpK4gfa7EnQ5ouj2GcqkEJ",
+    "vTokensInBondingCurve": 1072646865.272799,
+    "vSolInBondingCurve": 30.009876541999994,
+    "marketCapSol": 27.977405718113747,
+    "name": "BAGGED",
+    "symbol": "BAGGED",
+    "uri": "https://ipfs.io/ipfs/bafkreicfnzanci6alzoowhw427rd7dovk4kttgpao5dc55klzivlmtndji",
+    "is_mayhem_mode": false,
+    "pool": "pump",
+    "seenAt": 1793517863433,
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreiczhvhfewivdinof45lrbhqomyzugwizlvowsjjlxmbmofnkgfdg4",
+    "description": "I've built a REAL money extraction shooter, with plans to bring it to \n@Steam\n and integrate crypto through \n$BAGGED\n ",
+    "twitter": "https://x.com/BaggedX_/status/2116790829243126186",
+    "website": "",
+    "platform": "",
+    "metadataLoaded": true,
+    "marketCapUsd": 2662,
+    "marketSource": "market",
+    "volumeUsd24h": 0.94,
+    "priceUsd": "0.000002662",
+    "marketImage": "",
+    "marketUpdatedAt": 1793517952320,
+    "localImage": ""
+  },
+  {
+    "signature": "4iUnEGi6fErUAYFXRAYXzV8ToF7xPMvfFWBJjjNQrzhTyDKj8jo937xvEGhduGaKJsEUzDmABK9m8rt6LckCABLZ",
+    "mint": "FQB721nazBnmDUAhGwzEn14hjEZjoze9rx5KKUXm3k3j",
+    "traderPublicKey": "grok1r9rhYXqniD79L3eeBB6bBLd8ytGrhDRa6kgRNt",
+    "txType": "create",
+    "initialBuy": 176989690.673615,
+    "solAmount": 5.925925924,
+    "bondingCurveKey": "3Ku51xK2QJqvwhzBS7R9qcKXyCPNxDrxCv4dG2Z7yNnE",
+    "vTokensInBondingCurve": 896010309.326385,
+    "vSolInBondingCurve": 35.92592592399996,
+    "marketCapSol": 40.09543813285904,
+    "name": "AudaCity",
+    "symbol": "DacityCoin",
+    "uri": "https://gg.sc/metadata/6ef9d642-a631-4216-a96d-494965199659.json",
+    "is_mayhem_mode": false,
+    "pool": "pump",
+    "seenAt": 1793517862459,
+    "image": "https://axiomtrading-v2.axiom-cdn.io/3rj2EEHyHGNx8oXNG7uqzhPinKVFQKQNcs8tctuxpump.webp",
+    "description": "",
+    "twitter": "https://x.com/123greeenapple/status/2116793450364387428",
+    "website": "https://otcdesks.cash/coin/5jZhxvRqtxVSRaPLTn2ycVanWgmmsFsgVCteUbixpump",
+    "platform": "",
+    "metadataLoaded": true,
+    "marketCapUsd": 5204,
+    "marketSource": "market",
+    "volumeUsd24h": 1137.7,
+    "priceUsd": "0.000005204",
+    "marketImage": "",
+    "marketUpdatedAt": 1793517952320,
+    "localImage": "feed/images/FQB721nazBnmDUAhGwzEn14hjEZjoze9rx5KKUXm3k3j.webp"
+  },
+  {
     "signature": "2mtR8su6EdXCuxqVuJMqigip6q6gDWw2gbKq2aSd8rsJK4gdrJY7ydYCaZ6Q7EVC5x3VoEJDPk9GsqBDV7p8C7Pq",
     "mint": "8UBhgHSvyXK2jUQ4gd4iHkAXMkzayVhkb2nJ6W1Ppump",
     "traderPublicKey": "8TL3rhoL2bw5iER8sddTKAwUPBQBvc8D6Bk7o615CGGs",
@@ -22,12 +146,12 @@
     "website": "https://www.tiktok.com/@holdyournut/video/7567806438727306509",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 3606.9456868564876,
-    "marketSource": "curve",
-    "volumeUsd24h": 0,
-    "priceUsd": null,
+    "marketCapUsd": 2664,
+    "marketSource": "market",
+    "volumeUsd24h": 5286.47,
+    "priceUsd": "0.000002664",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/8UBhgHSvyXK2jUQ4gd4iHkAXMkzayVhkb2nJ6W1Ppump.jpg"
   },
   {
@@ -53,12 +177,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2978,
+    "marketCapUsd": 2670,
     "marketSource": "market",
-    "volumeUsd24h": 816,
-    "priceUsd": "0.000002978",
+    "volumeUsd24h": 976.95,
+    "priceUsd": "0.000002670",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -84,12 +208,12 @@
     "website": "https://hypercrawler.fun/",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -115,12 +239,12 @@
     "website": "https://trybackers.com/coin/8ex2Y3WUd8k8vpaSC7qLrMWz1e2eWopLDmyoXJkDqSeQ",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/HEP96yyvwDyWTbQQgtRJuAHKjMzZUmDKBA4FuPFAzSd2.jpg"
   },
   {
@@ -146,12 +270,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2673,
+    "marketCapUsd": 2672,
     "marketSource": "market",
-    "volumeUsd24h": 1.88,
-    "priceUsd": "0.000002673",
+    "volumeUsd24h": 4.25,
+    "priceUsd": "0.000002672",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -182,7 +306,7 @@
     "volumeUsd24h": 49.26,
     "priceUsd": "0.000005593",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -208,12 +332,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/Hhuerstcm1XRFAXPmKzqHb7KoSk6ZQ6DYY32JT9vigxt.webp"
   },
   {
@@ -239,12 +363,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -270,12 +394,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 19.99,
+    "marketCapUsd": 447.9,
     "marketSource": "market",
-    "volumeUsd24h": 886.76,
-    "priceUsd": "0.00000001999",
+    "volumeUsd24h": 1494.13,
+    "priceUsd": "0.0000004479",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -301,12 +425,12 @@
     "website": "https://tinyurl.com/38p9mcke",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -332,13 +456,13 @@
     "website": "https://tinyurl.com/38p9mcke",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 6963,
+    "marketCapUsd": 2691,
     "marketSource": "market",
-    "volumeUsd24h": 11795.65,
-    "priceUsd": "0.000006963",
-    "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
-    "localImage": ""
+    "volumeUsd24h": 32483.63,
+    "priceUsd": "0.000002691",
+    "marketImage": "https://cdn.dexscreener.com/cms/images/1mqEocaqsOOTDBa6?width=800&height=800&quality=95&format=auto",
+    "marketUpdatedAt": 1793517952320,
+    "localImage": "feed/images/8hGiaimufCDdawftFsH6woLGKXxFJuaZGWYZ3fp3pump.png"
   },
   {
     "signature": "3YC2DcygZtVmTQ6v6f1XsaZdmED8CpC8iS7Lw3YSTKvijj5e5raMM49pWEhCiRfgWcymG6fVvxTecnTJFkuCo6FF",
@@ -363,12 +487,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/7nbFmkKFKpaa4EkWVNgnCbd6SVDwnEkBFaGranB2DMy5.webp"
   },
   {
@@ -399,7 +523,7 @@
     "volumeUsd24h": 316.55,
     "priceUsd": "0.000005370",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -425,12 +549,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/667xhRqvJ61fd6enodkKNDVAdNRSeiNXkrAPwpw9tMmA.webp"
   },
   {
@@ -461,7 +585,7 @@
     "volumeUsd24h": 208.98,
     "priceUsd": "0.000002670",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -487,12 +611,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -518,12 +642,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 8419,
+    "marketCapUsd": 2673,
     "marketSource": "market",
-    "volumeUsd24h": 15498.74,
-    "priceUsd": "0.000008419",
+    "volumeUsd24h": 19201.93,
+    "priceUsd": "0.000002673",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -554,7 +678,7 @@
     "volumeUsd24h": 492.64,
     "priceUsd": "0.000002671",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -585,7 +709,7 @@
     "volumeUsd24h": 911.2,
     "priceUsd": "0.000003556",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -611,12 +735,12 @@
     "website": "https://www.amazon.com/",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -642,12 +766,12 @@
     "website": "https://otcdesks.cash/coin/EG7AJUjYcog87G6beHkty96FW72p327qzqsewXr5pump",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/D1jvxMuKRFb19DbfibYjWf4qHCAy6jQmu2LuZ9zmDK4D.webp"
   },
   {
@@ -678,7 +802,7 @@
     "volumeUsd24h": 64.91,
     "priceUsd": "0.000002764",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -704,12 +828,12 @@
     "website": "https://x.com/nonutnutpf",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -740,7 +864,7 @@
     "volumeUsd24h": 1.88,
     "priceUsd": "0.000002676",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/AkKuLfGJYUEDjXzdqbh96i4F8amV6YsCzKWwpJh4pump.jpg"
   },
   {
@@ -771,7 +895,7 @@
     "volumeUsd24h": 1.88,
     "priceUsd": "0.000002676",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/HhaxtfMLvipqMCpzNzmWAbEaTvQ9GwkGvmxvgGhhpump.jpg"
   },
   {
@@ -802,7 +926,7 @@
     "volumeUsd24h": 17772.72,
     "priceUsd": "0.000002673",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -833,7 +957,7 @@
     "volumeUsd24h": 105.09,
     "priceUsd": "0.000002672",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -859,12 +983,12 @@
     "website": "https://x.com/nonutnutpf",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2737,
+    "marketCapUsd": 2726,
     "marketSource": "market",
-    "volumeUsd24h": 45742.23,
-    "priceUsd": "0.000002737",
+    "volumeUsd24h": 45747.39,
+    "priceUsd": "0.000002726",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -895,7 +1019,7 @@
     "volumeUsd24h": 150.94,
     "priceUsd": "0.000002670",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/GkYvF7mBGKNseLZpmzer1F7PptUfyB7xPModPfWypump.webp"
   },
   {
@@ -921,12 +1045,12 @@
     "website": "https://youtu.be/2juDbUA2zlA?t=6615",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/HWDuSZ5PyVF6HUgkJA5sXgCpaLpEk3SbB1C2jsjyKcF.jpg"
   },
   {
@@ -957,7 +1081,7 @@
     "volumeUsd24h": 466.25,
     "priceUsd": "0.0000002025",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -988,7 +1112,7 @@
     "volumeUsd24h": 420.37,
     "priceUsd": "0.000002326",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1019,7 +1143,7 @@
     "volumeUsd24h": 1230.45,
     "priceUsd": "0.0000004347",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1045,12 +1169,12 @@
     "website": "https://www.change.org/p/urge-reform-at-alice-springs-animal-shelter?utm_source=chatgpt.com",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/HrkpK8hyJiqhbiF6q8PajRiYH6L6UnANsKHN6dYai8yq.webp"
   },
   {
@@ -1076,12 +1200,12 @@
     "website": "https://enterabyss.chat/",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1112,7 +1236,7 @@
     "volumeUsd24h": 2887.1,
     "priceUsd": "0.000002678",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1143,7 +1267,7 @@
     "volumeUsd24h": 12.34,
     "priceUsd": "0.000002661",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1169,12 +1293,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1205,7 +1329,7 @@
     "volumeUsd24h": 23694.29,
     "priceUsd": "0.000002681",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1236,7 +1360,7 @@
     "volumeUsd24h": 563.07,
     "priceUsd": "0.000002679",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1267,7 +1391,7 @@
     "volumeUsd24h": 1118.85,
     "priceUsd": "0.000002275",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1298,7 +1422,7 @@
     "volumeUsd24h": 10706.6,
     "priceUsd": "0.000005150",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1324,12 +1448,12 @@
     "website": "https://otcdesks.cash/coin/33UhZdvAXPu1eqDvadWYoYowYmb3GQxCTCwyRs93vLgn",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1355,12 +1479,12 @@
     "website": "https://www.tiktok.com/search?q=while%20they%20are%20partying&t=1793458451038",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/5819kpd7EaBkwKNggMdV8gfrfScesG9fdhuujjv5uuuq.webp"
   },
   {
@@ -1386,12 +1510,12 @@
     "website": "https://otcdesks.cash/coin/33UhZdvAXPu1eqDvadWYoYowYmb3GQxCTCwyRs93vLgn",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1422,7 +1546,7 @@
     "volumeUsd24h": 4258.99,
     "priceUsd": "0.000002681",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1453,7 +1577,7 @@
     "volumeUsd24h": 1491.85,
     "priceUsd": "0.000002731",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1484,7 +1608,7 @@
     "volumeUsd24h": 203.72,
     "priceUsd": "0.000002683",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1515,7 +1639,7 @@
     "volumeUsd24h": 2208.56,
     "priceUsd": "0.0000004684",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1541,12 +1665,12 @@
     "website": "https://www.change.org/p/urge-reform-at-alice-springs-animal-shelter?utm_source=chatgpt.com",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1577,7 +1701,7 @@
     "volumeUsd24h": 5273.07,
     "priceUsd": "0.000002683",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1597,12 +1721,12 @@
     "is_mayhem_mode": false,
     "pool": "pump",
     "seenAt": 1793448860241,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1628,12 +1752,12 @@
     "website": "https://otcdesks.cash/coin/kLE1yucYGKYNMJdRBZDSv4UmybvUoKvHAyAPLCwpump",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/6t1NvPGGksLCtoL3ZiHsRG69M7cMWEfgHLHrdzXYBPzs.webp"
   },
   {
@@ -1664,7 +1788,7 @@
     "volumeUsd24h": 47.85,
     "priceUsd": "0.000002676",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/4jEiEpybBMxUiUFkScUkEM6gfqtsrRM1L5vnpb7GBHQy.png"
   },
   {
@@ -1689,7 +1813,7 @@
     "volumeUsd24h": 4148.91,
     "priceUsd": "0.000002681",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1720,7 +1844,7 @@
     "volumeUsd24h": 308.41,
     "priceUsd": "0.000002673",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1751,7 +1875,7 @@
     "volumeUsd24h": 103.24,
     "priceUsd": "0.000002681",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1782,7 +1906,7 @@
     "volumeUsd24h": 60.79,
     "priceUsd": "0.000002675",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1808,12 +1932,12 @@
     "website": "https://honest-coin-no-rug.lovable.app/",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 3547,
+    "marketCapUsd": 3010,
     "marketSource": "market",
-    "volumeUsd24h": 30461.02,
-    "priceUsd": "0.000003547",
+    "volumeUsd24h": 30724.2,
+    "priceUsd": "0.000003010",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1839,12 +1963,12 @@
     "website": "https://x.com/noticieristas/status/2116383194597490780",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/2XtUWb8ZdbsYFY92zS8JPC8BD9SpCSxgqu5APUhEQYgH.webp"
   },
   {
@@ -1875,7 +1999,7 @@
     "volumeUsd24h": 38.12,
     "priceUsd": "0.000002675",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/6oZZ4c6FRAqcXz7mQ9kdRrjm8PLMVm9JS3syHppUpump.jpg"
   },
   {
@@ -1906,7 +2030,7 @@
     "volumeUsd24h": 231.81,
     "priceUsd": "0.000001320",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -1932,12 +2056,12 @@
     "website": "https://bitcoin.tax/blog/zombie-cryptocurrencies-2026/#:~:text=A-,zombie,-cryptocurrency%20is%20a",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/GRRD9waHPt6LZe3egjwFHohGicfVELNipLkzCrcpWFu1.webp"
   },
   {
@@ -1963,12 +2087,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/8go5XJ9RuRC3P5LLNHSnukWaYJboP23jRNpsaN2siv82.jpg"
   },
   {
@@ -1999,7 +2123,7 @@
     "volumeUsd24h": 49842.79,
     "priceUsd": "0.000001739",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/Hk7LMLMyr3nEf4HDgEwHFNW2jZbJPa5mo5NXgyv1pump.jpg"
   },
   {
@@ -2027,10 +2151,10 @@
     "metadataLoaded": true,
     "marketCapUsd": 2670,
     "marketSource": "market",
-    "volumeUsd24h": 616.19,
+    "volumeUsd24h": 0.07,
     "priceUsd": "0.000002670",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2056,12 +2180,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 3.4379999999999997,
-    "marketSource": "market",
-    "volumeUsd24h": 2604.05,
-    "priceUsd": "0.000000003438",
+    "marketCapUsd": 2693.615503472829,
+    "marketSource": "curve",
+    "volumeUsd24h": 0,
+    "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2081,12 +2205,12 @@
     "is_mayhem_mode": false,
     "pool": "pump",
     "seenAt": 1793424293246,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "",
     "image": "https://gateway.pinata.cloud/ipfs/bafybeihbvm32bhgqr34mmtbxq32obmwg2gdnyudyxgypt2pkkx6sf37eha",
     "description": "G.O.A.T",
@@ -2120,10 +2244,10 @@
     "metadataLoaded": true,
     "marketCapUsd": 2669,
     "marketSource": "market",
-    "volumeUsd24h": 190.02,
+    "volumeUsd24h": 0.07,
     "priceUsd": "0.000002669",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2151,10 +2275,10 @@
     "metadataLoaded": true,
     "marketCapUsd": 2671,
     "marketSource": "market",
-    "volumeUsd24h": 388.56,
+    "volumeUsd24h": 0.07,
     "priceUsd": "0.000002671",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/4rte2tEdydhni8gEuetcKn6SCCnQzneGukLRSzZfpump.jpg"
   },
   {
@@ -2180,12 +2304,12 @@
     "website": "https://otcdesks.cash/coin/6beU5DRNgTWmfJ8T2CzgfoB5y7KsfpbJMgeNgtfDpump",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/2ZugKwmRjkRszNr8548RVdswveYdoTDhAzDREoq1zQT1.webp"
   },
   {
@@ -2211,12 +2335,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2687,
-    "marketSource": "market",
-    "volumeUsd24h": 8.56,
-    "priceUsd": "0.000002687",
+    "marketCapUsd": 2676.8480137489296,
+    "marketSource": "curve",
+    "volumeUsd24h": 0,
+    "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2242,12 +2366,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 206.5,
-    "marketSource": "market",
-    "volumeUsd24h": 305.98,
-    "priceUsd": "0.0000002065",
+    "marketCapUsd": 2686.549127071783,
+    "marketSource": "curve",
+    "volumeUsd24h": 0,
+    "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2275,10 +2399,10 @@
     "metadataLoaded": true,
     "marketCapUsd": 2673,
     "marketSource": "market",
-    "volumeUsd24h": 90.36,
+    "volumeUsd24h": 0.07,
     "priceUsd": "0.000002673",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2306,10 +2430,10 @@
     "metadataLoaded": true,
     "marketCapUsd": 2670,
     "marketSource": "market",
-    "volumeUsd24h": 534.44,
+    "volumeUsd24h": 0.07,
     "priceUsd": "0.000002670",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2335,12 +2459,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2677.4531107933453,
+    "marketCapUsd": 2686.549127071783,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2368,10 +2492,10 @@
     "metadataLoaded": true,
     "marketCapUsd": 2666,
     "marketSource": "market",
-    "volumeUsd24h": 0.4,
+    "volumeUsd24h": 0.15,
     "priceUsd": "0.000002666",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2397,12 +2521,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2677.4531107933453,
+    "marketCapUsd": 2686.549127071783,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2428,12 +2552,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2671,
-    "marketSource": "market",
-    "volumeUsd24h": 0.07,
-    "priceUsd": "0.000002671",
+    "marketCapUsd": 2693.6155032938454,
+    "marketSource": "curve",
+    "volumeUsd24h": 0,
+    "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2459,12 +2583,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2767.5436685867307,
+    "marketCapUsd": 2776.94574631473,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2492,10 +2616,10 @@
     "metadataLoaded": true,
     "marketCapUsd": 2680,
     "marketSource": "market",
-    "volumeUsd24h": 4.57,
+    "volumeUsd24h": 0.58,
     "priceUsd": "0.000002680",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2521,12 +2645,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2668,
-    "marketSource": "market",
-    "volumeUsd24h": 0.07,
-    "priceUsd": "0.000002668",
+    "marketCapUsd": 2676.8480137489296,
+    "marketSource": "curve",
+    "volumeUsd24h": 0,
+    "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2552,12 +2676,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2669,
-    "marketSource": "market",
-    "volumeUsd24h": 0.07,
-    "priceUsd": "0.000002669",
+    "marketCapUsd": 2693.615503472829,
+    "marketSource": "curve",
+    "volumeUsd24h": 0,
+    "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2588,7 +2712,7 @@
     "volumeUsd24h": 23.06,
     "priceUsd": "0.000002675",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2616,10 +2740,10 @@
     "metadataLoaded": true,
     "marketCapUsd": 2673,
     "marketSource": "market",
-    "volumeUsd24h": 3.2,
+    "volumeUsd24h": 2.57,
     "priceUsd": "0.000002673",
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/AFwYedmrgqZp6sXcfNgEAzw36gChMWo1yErbABWxpump.webp"
   },
   {
@@ -2645,12 +2769,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2673,
-    "marketSource": "market",
-    "volumeUsd24h": 0.07,
-    "priceUsd": "0.000002673",
+    "marketCapUsd": 2684.7839830050525,
+    "marketSource": "curve",
+    "volumeUsd24h": 0,
+    "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2670,12 +2794,12 @@
     "is_mayhem_mode": false,
     "pool": "pump",
     "seenAt": 1793403496273,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": ""
   },
   {
@@ -2701,12 +2825,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2679.212856427088,
+    "marketCapUsd": 2688.314851026814,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/2WfiTHAKWYK9k9QVAPLXEhYXgeo1XuizUF7rsU9Ppump.webp"
   },
   {
@@ -2732,12 +2856,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/DdzqbyXMJy2FSRuboriAN1MLhLNYfgwmtuoeVXPojeZ5.jpg"
   },
   {
@@ -2763,12 +2887,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/5V6NPppqHWpZx4NKoQw3bP59NeexKNmhv123YjXYaVW.jpg"
   },
   {
@@ -2794,12 +2918,12 @@
     "website": "https://hottittycoin.fun",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2675.692570893625,
+    "marketCapUsd": 2684.7826061524433,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/8bjhUfuT5xyg9m5Y72SQzKTkdyp642yhkqXBFW6Rpump.png"
   },
   {
@@ -2825,12 +2949,12 @@
     "website": "https://otcdesks.cash/coin/Fjocbj3fQaYbBU1LiwTd42r1uwKVHQPk7dDJzeD1pump",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/APfPn3aKDmGHrL7tMxZkPK7aqHFKppm3kgxgu16rQNSZ.webp"
   },
   {
@@ -2856,12 +2980,12 @@
     "website": "https://otcdesks.cash/coin/DBCbi75n7HxgmaLQEcGfEt4JAnqEEr6nTdJQZgzwpump",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/EMazoGVgYEpYzrwNXMtQB3zHqVhNqzdDt9UQQF8tp1m4.webp"
   },
   {
@@ -2887,12 +3011,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/3jxptf3UyDHvqWFiWuGUAsAUev4QGmwzS9PDKxhTSfB6.webp"
   },
   {
@@ -2918,12 +3042,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
+    "marketCapUsd": 2675.9669647484006,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/6HYJ6NvgUFg7nAzcjHQJ6hsrPccAGYgAh5DEiJm73XSv.webp"
   },
   {
@@ -2949,135 +3073,12 @@
     "website": "",
     "platform": "",
     "metadataLoaded": true,
-    "marketCapUsd": 3617.1636581790613,
+    "marketCapUsd": 3629.45211969644,
     "marketSource": "curve",
     "volumeUsd24h": 0,
     "priceUsd": null,
     "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
+    "marketUpdatedAt": 1793517952320,
     "localImage": "feed/images/5uqsVeT1gSYBsaNNhWbbGbMjo9Lr6wnfYiGZG22Kvpna.jpg"
-  },
-  {
-    "signature": "4bDUnJ8hDtf2ReNdWjx1aVcJkwT328J3PvaMAcULrd6LsdyWpJyBgUugKicJKAwJ5RzYUmNXEnc1ffHXp5szxaLt",
-    "mint": "9QaZM7EjE4xim7meXy2z2ELxEEyu8SPMV8CDu9toUAS3",
-    "traderPublicKey": "AMgtc7ZmUsrMZUeHqCqqRZ3ZFdEeYi2BcxSmGgkrCyF7",
-    "txType": "create",
-    "initialBuy": 7036065.539171,
-    "solAmount": 0.198019801,
-    "bondingCurveKey": "37Kdm58cmHb5VxAqBVyT1bhiGcWvcg8fvVhcyfjgZikE",
-    "vTokensInBondingCurve": 1065963934.460829,
-    "vSolInBondingCurve": 30.19801980100002,
-    "marketCapSol": 28.32930723521557,
-    "name": "Slate Saddle",
-    "symbol": "SLASAD",
-    "uri": "https://pub-0b2668a7fed2460499fb35aa6b34a474.r2.dev/9WbV0m_Nrk3n.json",
-    "is_mayhem_mode": false,
-    "pool": "pump",
-    "seenAt": 1793387574087,
-    "image": "https://pub-0b2668a7fed2460499fb35aa6b34a474.r2.dev/9WbV0m_Nrk3n.webp",
-    "description": "",
-    "twitter": "",
-    "website": "",
-    "platform": "",
-    "metadataLoaded": true,
-    "marketCapUsd": 2702.2296608031666,
-    "marketSource": "curve",
-    "volumeUsd24h": 0,
-    "priceUsd": null,
-    "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
-    "localImage": "feed/images/9QaZM7EjE4xim7meXy2z2ELxEEyu8SPMV8CDu9toUAS3.webp"
-  },
-  {
-    "signature": "5mhXeyQGw1awQEuqkqpaVK889hiTZn16cX2aub3pTvftKPvRNu561rn5sDRqzoBivTJBgDRVS8PyDTDEWd7T1nfr",
-    "mint": "8mhcCWiKadm6VHCR6n9Mff25Jnkrsb13xwbyWTSipump",
-    "traderPublicKey": "AkG3PZqafUCuEjVGJAzvBsmKBBNhFK1qnUgrfRJRX9NP",
-    "txType": "create",
-    "initialBuy": 0,
-    "solAmount": 0,
-    "bondingCurveKey": "2Xp8dbKvgissAyUXHWjKRrhuuaFpAexE57WePZkCZnKD",
-    "vTokensInBondingCurve": 1073000000,
-    "vSolInBondingCurve": 30,
-    "marketCapSol": 27.958993476234856,
-    "name": "SHY KIMMY",
-    "symbol": "KIMMY",
-    "uri": "https://ipfs.io/ipfs/bafkreiakeoei475523tsqdtael6w5ri2jcxnvdvhlcrevcoqflp7xttpay",
-    "is_mayhem_mode": false,
-    "pool": "pump",
-    "seenAt": 1793387569798,
-    "image": "https://gateway.pinata.cloud/ipfs/bafybeihm5p44ltxvrkceskdulyjtphpfm64bwwrvlsoo62h36nor6lq2yq",
-    "description": "CUTE KIMMY",
-    "twitter": "",
-    "website": "",
-    "platform": "",
-    "metadataLoaded": true,
-    "marketCapUsd": 2666.9067771543464,
-    "marketSource": "curve",
-    "volumeUsd24h": 0,
-    "priceUsd": null,
-    "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
-    "localImage": "feed/images/8mhcCWiKadm6VHCR6n9Mff25Jnkrsb13xwbyWTSipump.png"
-  },
-  {
-    "signature": "4DRZEnTPCrnK1uLVbp7JhmSXj5Te6tQjnRkTEWWAq66RQ9Ke4uQap4jmX1DpKokLUQj2GZxMZ43iq3CfR1sViVav",
-    "mint": "7xP9LocNk7T2LbaFBCZ8Tq7KZBteDFuiB9L1zz5kpump",
-    "traderPublicKey": "9qEfpgziitbk7N6kSp54sxM6TGmmQmt8Ko1uyQuySCS5",
-    "txType": "create",
-    "initialBuy": 1788384,
-    "solAmount": 0.050084894,
-    "bondingCurveKey": "Anm3twJkPM28NscpsGraH5RuGkEgnU36qjee4SHspAhx",
-    "vTokensInBondingCurve": 1071211616,
-    "vSolInBondingCurve": 30.050084893776955,
-    "marketCapSol": 28.0524262852812,
-    "name": "HALLOWGHOST",
-    "symbol": "GHOST",
-    "uri": "https://ipfs.io/ipfs/bafkreibeblvqbqjtquueu6oxxe5pxmkdrpaco2duxsoflophnh36chnuny",
-    "is_mayhem_mode": false,
-    "pool": "pump",
-    "seenAt": 1793387557267,
-    "image": "https://gateway.pinata.cloud/ipfs/bafkreidhny2j6bq3bdixlnubzwpeyawoy4vbfy42ktavegovzhkuzwdmjq",
-    "description": "👻 HALLOWGHOST has entered the blockchain.\n\nEvery Halloween, the ghosts come back. This time, one of them found crypto.\n\nNo promises. No complicated roadmap. Just a ghost, a meme and one mission:\n\nSURVIVE HALLOWEEN. 🎃\n\nThe night is young. The ghost is awake.\n\n$GHOST 👻🎃",
-    "twitter": "https://x.com/phantom/status/2116234341584126179?a=4LPU1IsxDrM7lsUKeyo&s=19",
-    "website": "",
-    "platform": "",
-    "metadataLoaded": true,
-    "marketCapUsd": 2668,
-    "marketSource": "market",
-    "volumeUsd24h": 0.33,
-    "priceUsd": "0.000002668",
-    "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
-    "localImage": "feed/images/7xP9LocNk7T2LbaFBCZ8Tq7KZBteDFuiB9L1zz5kpump.jpg"
-  },
-  {
-    "signature": "5wRL7iViYFT6hDR6uazLJxzoE7guxmCmG9Rttvgk63U9MyBtuLWbds9LjMSH5dDVJKL8BMeZqaDm2RJAmpH3aYai",
-    "traderPublicKey": "4zCQPf6fW8fM8gp43LnvKSUzDjXx4bpsbU5bpwpj1Jr1",
-    "txType": "create",
-    "mint": "7vyNmRVDv4RQYVngU2xae2kLZzgXbrrmw5dYBQRZCitK",
-    "solInPool": 0.46955175,
-    "tokensInPool": 983505587.025629,
-    "initialBuy": 16494412.974370956,
-    "solAmount": 0.46955175,
-    "newTokenBalance": 16494412.974371,
-    "marketCapSol": 28.837415147446258,
-    "name": "Loft",
-    "symbol": "LOFT",
-    "uri": "https://loftpad.vercel.app/meta/loft.json",
-    "pool": "bonk",
-    "seenAt": 1793387551145,
-    "image": "https://loftpad.vercel.app/meta/loft.png",
-    "description": "The coin of Loft, a Solana launchpad built on Raydium LaunchLab. Launch a coin, earn 0.25% of every trade as its creator.",
-    "twitter": "https://x.com/loftpad",
-    "website": "https://loftpad.vercel.app",
-    "platform": "",
-    "metadataLoaded": true,
-    "marketCapUsd": 2750.696227949283,
-    "marketSource": "curve",
-    "volumeUsd24h": 0,
-    "priceUsd": null,
-    "marketImage": "",
-    "marketUpdatedAt": 1793494884465,
-    "localImage": "feed/images/7vyNmRVDv4RQYVngU2xae2kLZzgXbrrmw5dYBQRZCitK.png"
   }
 ]
